@@ -11,6 +11,7 @@ title: Up in the clouds
 # Your name to show in the footer
 author: Massimo Crippa
 
+baseurl: /blog
 # --- List of links in the navigation bar --- #
 
 navbar-links:
